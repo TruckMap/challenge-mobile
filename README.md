@@ -35,5 +35,5 @@ We recommend getting started by downloading this package (don't fork, please!) a
 ## Submitting
 
 - Replace this `README.md` with any instructions, a few screenshots, assumptions you made, and a few ideas for features you might add if the app was taken any further.
-- Zip and email your repository to us.
+- Zip and email your repository to us. You can remove `node_modules` to reduce size.
 - We will provide constructive and timely feedback on your submission with a clear direction around next steps.  Thank you for your time.
