@@ -12,7 +12,7 @@ You will build a react-native app that allows users to search through a random l
 
 - Use react-native to build a native mobile app.
 - Allow the user to search through a random list of people.  These people also have a random association of interests and hobbies.  The relevant data files are in `src/api/data/` of this repository.
-- Assume that accessing the people and interests via API is asynchronous, like if it was really coming from a server.
+- Assume that accessing the people and interests via "API" is asynchronous, like if it was really coming from a server.
 - Use Redux to store the application’s state and process any network requests.
 - Render a fullscreen map as the main screen. Think Google Maps UI but instead of searching addresses it’s searching people.
 - Allow the user to "typeahead search" the people and show the autocompleted results as they type. The info indexed for the search is up to you, but there are potential ways to be creative here.
