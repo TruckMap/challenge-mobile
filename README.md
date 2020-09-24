@@ -26,7 +26,7 @@ You will build a react-native app that allows users to search through a random l
 
 - Modular use of Redux and a presentational component/container [structure](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0).
 - You separate business logic from the app's UI components.
-- Asthetic look-and-feel of the app UI.  We will have design resources available, but there will be times when you'll need to fill in the gaps without outside help.
+- Aesthetic look-and-feel of the app UI.  We will have design resources available, but there will be times when you'll need to fill in the gaps without outside help.
 
 ## Getting Started
 
