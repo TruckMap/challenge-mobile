@@ -1,4 +1,4 @@
-# TruckMap Engineering Coding Challenge
+# TruckMap Mobile Engineering Challenge
 
 This project is intended to touch a few key technologies that TruckMap uses regularly to help us understand how you think about trade-offs between time, usefulness, and simplicity in a realistic setting.
 
