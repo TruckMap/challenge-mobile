@@ -11,7 +11,7 @@ You will build a react-native app that allows users to search through a random l
 ## Requirements
 
 - Create a new react-native app with any dependencies you'd like to get started.
-- Allow the user to search through a random list of people.  These people also have a random association of interests and hobbies.  The relevant APIs and data are in `src/api/` of this repository.
+- Allow the user to search through a random list of people.  These people also have a random association of interests and hobbies.  The data files are in `data` of this repository.
 - Assume that accessing the people and interests via "API" is asynchronous, like if it was really coming from a server.
 - Use Redux or React Hooks to store the application’s state and process any network requests.
 - Render a fullscreen map as the main screen. Think Google Maps UI but instead of searching addresses it’s searching people.
