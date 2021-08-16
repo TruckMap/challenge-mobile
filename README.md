@@ -45,9 +45,9 @@ bundle install
 bundle exec pod install
 ```
 
-2. Create a Mapbox [access token](https://docs.mapbox.com/help/glossary/access-token/), and add it to `index.js`.
+2. Create a Mapbox [access token](https://docs.mapbox.com/help/glossary/access-token/), and add it to `./index.js`.
 
-3. For iOS, open `/./ios/Challenge.xcworkspace` and build and run. For Android, open an emulator or connect a device and run `npx react-native run-android`. See [here](https://reactnative.dev/docs/running-on-device) for help.
+3. For iOS, open `./ios/Challenge.xcworkspace` and build and run. For Android, open an emulator or connect a device and run `npx react-native run-android`. See [here](https://reactnative.dev/docs/running-on-device) for help.
 
 ## Submission Notes
 
