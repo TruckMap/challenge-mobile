@@ -2,11 +2,11 @@
 
 This project is intended to touch a few key technologies that TruckMap uses regularly to help us understand how you think about trade-offs between time, usefulness, and simplicity in a realistic setting.
 
-We are respectful of your time. If we’ve requested you do this challenge we’ll pay **$200 for any submission** in good faith effort, regardless if you’re ultimately hired.
+We are respectful of your time. If we’ve requested you do this challenge, we’ll pay **$200 for any submission** in good faith effort, regardless of whether you’re ultimately hired.
 
 ## Requirements
 
-You will build a React Native app that allows users to search through a list of people, puts a selected person result randomly on a map, and displays a simple profile card about them.
+Build a React Native app that allows users to search through a list of people, puts a selected person result randomly on a map, and displays a simple profile card about them.
 
 ### Product
 
@@ -51,4 +51,4 @@ bundle exec pod install
 
 ## Submission Notes
 
-TODO
+[Add your notes here.]
