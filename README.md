@@ -24,8 +24,9 @@ You will build a React Native app that allows users to search through a list of 
 2. Use React hooks or Redux (whichever you prefer) to store the application’s state and process any network responses.
 3. Do the search logic in the API. We pay particular attention to how this is implemented, so try to create an elegant solution that handles a few edge cases.
 4. Separate business logic from the app's UI components.
-5. Consider the aesthetics and usability of the app. We will have design resources available, but there will be times when you'll need to fill in the gaps without outside help.
-6. Feel free to use any additional third-party styling or component libraries.
+5. New components and modules should be created using TypeScript. React components should be functional and make use of hooks.
+6. Consider the aesthetics and usability of the app. We will have design resources available, but there will be times when you'll need to fill in the gaps without outside help.
+7. Feel free to use any additional third-party styling or component libraries.
 
 ## Submitting
 
