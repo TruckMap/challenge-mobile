@@ -29,7 +29,7 @@ You will build a React Native app that allows users to search through a list of 
 
 ## Submitting
 
-1. Create a `README.md` with any instructions, assumptions you made, and a few ideas for features you might add if the app was taken any further. Please also include a few screenshots or a GIF or video showing the app in use.
+1. Add to this readme file with any instructions, assumptions you made, and a few ideas for features you might add if the app was taken any further. Please also include a few screenshots or a GIF or video showing the app in use.
 2. Zip and email your repository to us. You can remove `node_modules` to reduce size.
 3. We will provide constructive and timely feedback on your submission with a clear direction around next steps. Thank you for your time.
 
@@ -47,3 +47,7 @@ bundle exec pod install
 2. Create a Mapbox [access token](https://docs.mapbox.com/help/glossary/access-token/), and add it to `index.js`.
 
 3. For iOS, open `/./ios/Challenge.xcworkspace` and build and run. For Android, open an emulator or connect a device and run `npx react-native run-android`. See [here](https://reactnative.dev/docs/running-on-device) for help.
+
+## Submission Notes
+
+TODO
