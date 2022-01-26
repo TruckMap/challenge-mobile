@@ -30,7 +30,7 @@ Build a React Native app that allows users to search through a list of people, p
 
 ## Submitting
 
-1. Add to this readme file with any instructions, assumptions you made, and a few ideas for features you might add if the app was taken any further. Please also include a few **screenshots** or video showing the app in use.
+1. Add to this readme file with any instructions, assumptions you made, and a few ideas for features you might add if the app was taken any further. Please also include a few _**screenshots**_ or video showing the app in use.
 2. Zip and email your repository to us. You can remove `node_modules` to reduce size.
 3. We will provide constructive and timely feedback on your submission with a clear direction around next steps. Thank you for your time.
 
